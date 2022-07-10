@@ -1,0 +1,6 @@
+[core]
+    analytics = false
+    remote = remote_storage
+    autostage = true
+['remote "remote_storage"']
+    url = /Users/sergio/Desktop/UNI/TFG/Practica/CSVs
